@@ -2,8 +2,8 @@
   "Order": {
     "emailTracked": "string",
     "orderId": "string",
-    "origin": "Marketplace",
-    "status": "handling",
+    "origin": "string",
+    "status": "string",
     "statusDescription": "string",
     "value": "string",
     "creationDate": "date",

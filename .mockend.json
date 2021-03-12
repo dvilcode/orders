@@ -11,7 +11,7 @@
     "authorizedDate": "date",
     "clientProfileData": "ClientProfileData",
     "seller": "Seller",
-    "marketPlace": "MarketPlace"
+    "marketPlace": "MarketPlace",
     "totals": "Total[]",
     "items": "Item[]",
   },

@@ -9,7 +9,7 @@
     "creationDate": "date",
     "lastChange": "date",
     "authorizedDate": "date",
-    "sellerd": "Seller[]",
+    "sellers": "Seller[]",
     "markets": "Market[]",
     "totals": "Total[]",
     "items": "Item[]",

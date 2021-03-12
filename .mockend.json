@@ -10,9 +10,9 @@
     "lastChange": "date",
     "totals": "Total[]",
     "items": "Item[]",
-    "clientProfileData": "ClientProfileData{}",
-    "seller": "Seller{}",
-    "marketPlace": "MarketPlace{}",
+    "clientProfileData": "ClientProfileData[]",
+    "seller": "Seller[]",
+    "marketPlace": "MarketPlace[]",
     "authorizedDate": "date"
   },
   "Total": {

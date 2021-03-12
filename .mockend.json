@@ -9,9 +9,9 @@
     "creationDate": "date",
     "lastChange": "date",
     "authorizedDate": "date",
-    "clientProfileData": "Clientprofiledata[]",
-    "seller": "Seller[]",
-    "marketPlace": "Marketplace[]",
+    "clientProfileDatas": "Clientprofiledata[]",
+    "sellers": "Seller[]",
+    "marketPlaces": "Marketplace[]",
     "totals": "Total[]",
     "items": "Item[]"
   },

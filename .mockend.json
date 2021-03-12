@@ -9,7 +9,11 @@
     "creationDate": "date",
     "lastChange": "date",
     "authorizedDate": "date",
-    "sellers": "Seller[]"
+    "sellers": "Seller[]",
+    "marketPlaces": "Marketplace[]",
+    "totals": "Total[]",
+    "items": "Item[]",
+    "clientProfileDatas": "Clientprofiledata[]"
   },
   "Total": {
     "id": "string",

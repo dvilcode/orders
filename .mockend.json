@@ -8,11 +8,11 @@
     "value": "string",
     "creationDate": "date",
     "lastChange": "date",
-    "totals": "Total[]",
-    "items": "Item[]",
-    "clientProfileData": "ClientProfileData[]",
-    "seller": "Seller[]",
-    "marketPlace": "MarketPlace[]",
+    "totals": "Total",
+    "items": "Item",
+    "clientProfileData": "ClientProfileData",
+    "seller": "Seller",
+    "marketPlace": "MarketPlace",
     "authorizedDate": "date"
   },
   "Total": {

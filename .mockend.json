@@ -10,10 +10,10 @@
     "lastChange": "date",
     "authorizedDate": "date",
     "sellerd": "Seller[]",
-    "marketPlaced": "Marketplace[]",
+    "markets": "Market[]",
     "totals": "Total[]",
     "items": "Item[]",
-    "clientProfileDatda": "Clientprofiledata[]"
+    "clients": "Client[]"
   },
   "Total": {
     "id": "string",
@@ -28,7 +28,7 @@
     "imageUrl": "string",
     "ord": "Ord"
   },
-  "Clientprofiledata": {
+  "Client": {
     "email": "string",
     "firstName": "string",
     "lastName": "string",
@@ -42,7 +42,7 @@
     "logo": "string",
     "ord": "Ord"
   },
-  "Marketplace": {
+  "Market": {
     "name": "string",
     "ord": "Ord"
   }

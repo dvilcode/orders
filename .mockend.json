@@ -1,0 +1,44 @@
+{
+  "Order": {
+    "emailTracked": "string",
+    "orderId": "string",
+    "origin": "Marketplace",
+    "status": "handling",
+    "statusDescription": "Preparando Entrega",
+    "value": "string",
+    "creationDate": "date",
+    "lastChange": "date",
+    "totals": "Totals[]",
+    "items": "Items[]",
+    "clientProfileData": "ClientProfileData{}",
+    "seller": "Seller{}",
+    "marketPlace": "MarketPlace{}",
+    "authorizedDate": "date",
+  },
+  "Totals": {
+    "id": "string",
+    "name": "string",
+    "value": "int"
+  },
+  "Iems": {
+    "quantity": "1",
+    "name": "string",
+    "price": "int",
+    "imageUrl": "string",
+  },
+  "ClientProfileData": {
+    "email": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "documentType": "string",
+    "document": "int",
+    "phone": "int",
+  },
+  "Seller": {
+    "name": "string",
+    "logo": "string",
+  },
+  "MarketPlace": {
+    "name": "string"
+  },
+}

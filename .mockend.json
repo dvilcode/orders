@@ -8,19 +8,19 @@
     "value": "string",
     "creationDate": "date",
     "lastChange": "date",
-    "totals": "Totals[]",
-    "items": "Items[]",
+    "totals": "Total[]",
+    "items": "Item[]",
     "clientProfileData": "ClientProfileData{}",
     "seller": "Seller{}",
     "marketPlace": "MarketPlace{}",
     "authorizedDate": "date",
   },
-  "Totals": {
+  "Total": {
     "id": "string",
     "name": "string",
     "value": "int"
   },
-  "Iems": {
+  "Item": {
     "quantity": "1",
     "name": "string",
     "price": "int",

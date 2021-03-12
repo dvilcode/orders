@@ -9,11 +9,7 @@
     "creationDate": "date",
     "lastChange": "date",
     "totals": "Total[]",
-    "items": "Item[]",
-    "clientProfileData": "ClientProfileData{}",
-    "seller": "Seller{}",
-    "marketPlace": "MarketPlace{}",
-    "authorizedDate": "date",
+    "items": "Item[]"
   },
   "Total": {
     "id": "string",
@@ -24,7 +20,7 @@
     "quantity": "1",
     "name": "string",
     "price": "int",
-    "imageUrl": "string",
+    "imageUrl": "string"
   },
   "ClientProfileData": {
     "email": "string",
@@ -32,11 +28,11 @@
     "lastName": "string",
     "documentType": "string",
     "document": "int",
-    "phone": "int",
+    "phone": "int"
   },
   "Seller": {
     "name": "string",
-    "logo": "string",
+    "logo": "string"
   },
   "MarketPlace": {
     "name": "string"

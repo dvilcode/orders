@@ -13,7 +13,7 @@
     "clientProfileData": "ClientProfileData{}",
     "seller": "Seller{}",
     "marketPlace": "MarketPlace{}",
-    "authorizedDate": "date",
+    "authorizedDate": "date"
   },
   "Total": {
     "id": "string",
@@ -40,5 +40,5 @@
   },
   "MarketPlace": {
     "name": "string"
-  },
+  }
 }

@@ -8,12 +8,12 @@
     "value": "string",
     "creationDate": "date",
     "lastChange": "date",
-    "totals": "Total",
-    "items": "Item",
+    "authorizedDate": "date",
+    "totals": "Total[]",
+    "items": "Item[]",
     "clientProfileData": "ClientProfileData",
     "seller": "Seller",
-    "marketPlace": "MarketPlace",
-    "authorizedDate": "date"
+    "marketPlace": "MarketPlace"
   },
   "Total": {
     "id": "string",

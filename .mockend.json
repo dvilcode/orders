@@ -11,20 +11,22 @@
     "authorizedDate": "date",
     "seller": "Seller[]",
     "marketPlace": "Marketplace[]",
-    "total": "Total[]",
-    "item": "Item[]",
+    "totals": "Total[]",
+    "items": "Item[]",
     "clientProfileData": "Clientprofiledata[]"
   },
   "Total": {
     "id": "string",
     "name": "string",
-    "value": "int"
+    "value": "int",
+    "ord": "Ord"
   },
   "Item": {
     "quantity": "int",
     "name": "string",
     "price": "int",
-    "imageUrl": "string"
+    "imageUrl": "string",
+    "ord": "Ord"
   },
   "Clientprofiledata": {
     "email": "string",
@@ -32,13 +34,16 @@
     "lastName": "string",
     "documentType": "string",
     "document": "int",
-    "phone": "int"
+    "phone": "int",
+    "ord": "Ord"
   },
   "Seller": {
     "name": "string",
-    "logo": "string"
+    "logo": "string",
+    "ord": "Ord"
   },
   "Marketplace": {
-    "name": "string"
+    "name": "string",
+    "ord": "Ord"
   }
 }

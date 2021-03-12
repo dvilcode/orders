@@ -1,5 +1,5 @@
 {
-  "Order": {
+  "Ord": {
     "emailTracked": "string",
     "orderId": "string",
     "origin": "string",

@@ -9,7 +9,6 @@
     "creationDate": "date",
     "lastChange": "date",
     "authorizedDate": "date",
-    "clientProfileDatas": "Clientprofiledata[]",
     "sellers": "Seller[]",
     "marketPlaces": "Marketplace[]",
     "totals": "Total[]",

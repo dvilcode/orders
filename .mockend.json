@@ -4,7 +4,7 @@
     "orderId": "string",
     "origin": "Marketplace",
     "status": "handling",
-    "statusDescription": "Preparando Entrega",
+    "statusDescription": "string",
     "value": "string",
     "creationDate": "date",
     "lastChange": "date",
@@ -21,7 +21,7 @@
     "value": "int"
   },
   "Item": {
-    "quantity": "1",
+    "quantity": "int",
     "name": "string",
     "price": "int",
     "imageUrl": "string"

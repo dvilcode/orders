@@ -12,7 +12,8 @@
     "sellers": "Seller[]",
     "marketPlaces": "Marketplace[]",
     "totals": "Total[]",
-    "items": "Item[]"
+    "items": "Item[]",
+    "clientProfileDatas": "Clientprofiledata[]"
   },
   "Total": {
     "id": "string",

@@ -1,4 +1,20 @@
 {
+  "Order": {
+    "emailTracked": "string",
+    "orderId": "string",
+    "origin": "string",
+    "status": "string",
+    "statusDescription": "string",
+    "value": "string",
+    "creationDate": "date",
+    "lastChange": "date",
+    "totals": "Total",
+    "items": "Item",
+    "clientProfileData": "ClientProfileData",
+    "seller": "Seller",
+    "marketPlace": "MarketPlace",
+    "authorizedDate": "date"
+  },
   "Total": {
     "id": "string",
     "name": "string",
@@ -24,21 +40,5 @@
   },
   "MarketPlace": {
     "name": "string"
-  },
-  "Order": {
-    "emailTracked": "string",
-    "orderId": "string",
-    "origin": "string",
-    "status": "string",
-    "statusDescription": "string",
-    "value": "string",
-    "creationDate": "date",
-    "lastChange": "date",
-    "totals": "Total",
-    "items": "Item",
-    "clientProfileData": "ClientProfileData",
-    "seller": "Seller",
-    "marketPlace": "MarketPlace",
-    "authorizedDate": "date"
-  },
+  }
 }

@@ -33,8 +33,8 @@
     "firstName": "string",
     "lastName": "string",
     "documentType": "string",
-    "document": "int",
-    "phone": "int",
+    "document": "string",
+    "phone": "string",
     "ord": "Ord"
   },
   "Seller": {
